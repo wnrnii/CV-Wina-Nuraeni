@@ -1,2 +1,27 @@
-# CV-Wina-Nuraeni
-&lt;!DOCTYPE html> &lt;html lang="id">     &lt;head>         &lt;title>Curiculum Vitae&lt;/title>     &lt;/head>      &lt;body>     &lt;h1> Curiculum Vitae &lt;/h1>     &lt;HR/>  &lt;h2> Riwayat Hidup &lt;/h2>   &lt;p> Nama : Wina Nuraeni &lt;/p>   &lt;p> TTL : Kuningan, 04 Desember 2002&lt;/p>  &lt;p> Jenis Kelamin : Perempuan &lt;/p>  &lt;p> Tinggi Badan : 160 cm &lt;/p>  &lt;p> Berat Badan : 50 Kg &lt;/p>  &lt;p> Hoby : Baca , Jajan &lt;/p>  &lt;p> Agama : Islam &lt;/p>         &lt;p> Alamat : Kuningan Jawa Barat&lt;/p>         &lt;p> Email : winanuraeni002@gmail.com &lt;/p> &lt;h2> Riwayat Pendidikan&lt;/h2>   &lt;p> SD  : SD N 4 Kuningan ( 2008 - 2014 )&lt;/p>  &lt;p> SMP : SMP N 7 Kuningan ( 2014 - 2017 )&lt;/p>  &lt;p> SMA : SMA N 1 Cigugur ( 2017 - 2020 )&lt;/p>     &lt;/body> &lt;/html>
+<!DOCTYPE html>
+<html lang="id">
+    <head>
+        <title>Curiculum Vitae</title>
+    </head>
+
+    <body>
+    <h1> Curiculum Vitae </h1>
+    <HR/> 
+<h2> Riwayat Hidup </h2>
+
+ <p> Nama : Wina Nuraeni </p> 
+ <p> TTL : Kuningan, 04 Desember 2002</p>
+ <p> Jenis Kelamin : Perempuan </p>
+ <p> Tinggi Badan : 160 cm </p>
+ <p> Berat Badan : 50 Kg </p>
+ <p> Hoby : Baca , Jajan </p>
+ <p> Agama : Islam </p>
+        <p> Alamat : Kuningan Jawa Barat</p>
+        <p> Email : winanuraeni002@gmail.com </p>
+<h2> Riwayat Pendidikan</h2>
+
+ <p> SD  : SD N 4 Kuningan ( 2008 - 2014 )</p>
+ <p> SMP : SMP N 7 Kuningan ( 2014 - 2017 )</p>
+ <p> SMA : SMA N 1 Cigugur ( 2017 - 2020 )</p>
+    </body>
+</html>
